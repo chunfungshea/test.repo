@@ -1,2 +1,1 @@
-# test.repo
-first repo test
+firsf repo tesmy first REPO update in file my first REPO update in file .
